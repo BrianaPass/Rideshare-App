@@ -5,16 +5,14 @@ This website is a rideshare platform designed specifically to provide college st
 
 # Technology
 
-* Javascript
-* Node.js
-* Three.js
-* Express.js
-* Javascript
-* Node.js
-* ThreeJS 
-* React Three Fiber 
-* TailwindCSS 
-* Framer Motion
+* React Native
+* Expo
+* Stripe
+* PostgreSQL
+* Google Maps
+* zustand
+* Clerk
+* Tailwind CSS
 
 # Installation
 
